@@ -177,3 +177,7 @@ The most significant outcome was identifying a PowerShell monitoring limitation 
 By validating Event ID 4104 after making the configuration change, I demonstrated an evidence-based approach to endpoint monitoring and security control verification.
 
 **Prepared by Marcos Rivera | Rivera Tech Protection**
+
+## Full Investigation Report
+
+📄 [View the Complete Windows Endpoint Investigation](Windows%20Endpoint%20Investigation%20%E2%80%94%20Suspicious%20Authentication%20%26%20PowerShell%20Activity.pdf)
